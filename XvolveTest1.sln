@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XvolveTest1", "XvolveTest1\XvolveTest1.vcxproj", "{809C1B92-8639-47A9-85D8-CF40F9A5207C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{809C1B92-8639-47A9-85D8-CF40F9A5207C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{809C1B92-8639-47A9-85D8-CF40F9A5207C}.Debug|Win32.Build.0 = Debug|Win32
+		{809C1B92-8639-47A9-85D8-CF40F9A5207C}.Release|Win32.ActiveCfg = Release|Win32
+		{809C1B92-8639-47A9-85D8-CF40F9A5207C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
